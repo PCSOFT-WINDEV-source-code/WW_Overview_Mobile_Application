@@ -1,0 +1,10 @@
+[INFOS]
+gaf=0
+title=WW_Overview_Mobile_Application
+image=description.gif
+description=description.rtf
+source=1
+preview=preview.png
+typesite=0
+[OBJECT]
+WW_Overview_Mobile_Application.wwp=4096
